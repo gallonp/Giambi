@@ -1,4 +1,3 @@
-
 public class mainClass {
 
 	/**
@@ -9,7 +8,8 @@ public class mainClass {
 		//Giambi first commit!!!!!!!!
 	    // Haoli second commit
 		// Jian third
-		// conflict fifth
+		//Jialiang Fourth Haoli
+
 	}
 
 }
