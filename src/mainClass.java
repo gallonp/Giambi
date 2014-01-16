@@ -18,6 +18,8 @@ public class mainClass {
 		} finally {
 			System.out.println("Finally we got the truth.");
 		}
+		
+		// Jian 12:20 pm
 	}
 
 }
