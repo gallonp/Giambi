@@ -10,6 +10,14 @@ public class mainClass {
 		// Jian third
 		//Jialiang Fourth Haoli
 		//Jian Fifth
+		try{
+			int i = 0/0;
+			System.out.println(i);
+		} catch (Exception e){
+			return;
+		} finally {
+			System.out.println("Finally we got the truth.");
+		}
 	}
 
 }
