@@ -8,9 +8,7 @@ public class mainClass {
 		//Giambi first commit!!!!!!!!
 	    // Haoli second commit
 		// Jian third
-<<<<<<< HEAD
 		//Jialiang  Haoli
-=======
 		//Jialiang Fourth Haoli
 		//Jian Fifth
 		try{
@@ -23,7 +21,6 @@ public class mainClass {
 		}
 		
 		// Jian 12:20 pm
->>>>>>> 37205dd277257336aee130ffc8c16b3bef9f6866
 	}
 
 }
